@@ -1,4 +1,4 @@
-### Hi there, I'm Belayet- aka [Belayet-Hossen] 👋
+### Hi there, I'm Belayet- [Belayet91] 👋
 
 ## I'm a Student, Developer, and Designer!
 - 🔭 I’m currently working on a [VS Code Course]!
@@ -38,3 +38,4 @@
 [Instagram]: https://www.instagram.com/belayeth91/
 [Linkedin]: linkedin.com/in/belayet-hossen-9a9643192/
 [Quora]: https://www.quora.com/profile/Belayet-Hossen-7/
+[Belayet91]: https://github.com/Belayet91/
