@@ -1,7 +1,7 @@
 ### Hi there, I'm Belayet- [Belayet91] 👋
 
 ## I'm a Student, Developer, and Designer!
-- 🔭 I’m currently working on a [VS Code Course]!
+- 🔭 I’m currently working on a [VS Code]!
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
