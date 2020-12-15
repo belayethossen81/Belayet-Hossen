@@ -1,19 +1,20 @@
-### Hi there, I'm Belayet- [Belayet91] 👋
+### Hi there, I'm Belayet- [belayethossen81] 👋
 
 ## I'm a Student, Developer, and Designer!
 - 🔭 I’m currently working on a [VS Code]!
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: Sometime's i really act like a child.
+- ⚡ Now I'm working With Web Application Development.
 
 ### Connect with me:
 
-[<img align="left" alt="belayet91" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="belayet91 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="belayet91 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-[<img align="left" alt="belayet91 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="belayet91 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][Quora]
+[<img align="left" alt="belayethossen81" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
+[<img align="left" alt="belayethossen81 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="belayethossen81 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="belayethossen81 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="belayethossen81 | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][Quora]
+[<img align="left" alt="belayethossen81 | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][Reddit]
 
 <br />
 
@@ -33,9 +34,10 @@
 
 ---
 
-[Facebook]: https://web.facebook.com/belayet91/
-[Twitter]: https://twitter.com/belayet91/
-[Instagram]: https://www.instagram.com/belayeth91/
+[Facebook]: https://web.facebook.com/belayethossin81/
+[Twitter]: https://twitter.com/belayethossen81/
+[Instagram]: https://www.instagram.com/belayethossen81/
 [Linkedin]: linkedin.com/in/belayet-hossen-9a9643192/
 [Quora]: https://www.quora.com/profile/Belayet-Hossen-7/
-[Belayet91]: https://github.com/Belayet91/
+[Reddit]: https://www.reddit.com/r/belayet91
+[belayethossen81]: https://github.com/belayethossen81/
